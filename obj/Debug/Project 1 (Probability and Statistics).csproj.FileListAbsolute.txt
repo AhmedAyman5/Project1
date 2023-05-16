@@ -1,0 +1,8 @@
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\bin\Debug\Project 1 (Probability and Statistics).exe.config
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\bin\Debug\Project 1 (Probability and Statistics).exe
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\bin\Debug\Project 1 (Probability and Statistics).pdb
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\obj\Debug\Project 1 (Probability and Statistics).csproj.AssemblyReference.cache
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\obj\Debug\Project 1 (Probability and Statistics).csproj.SuggestedBindingRedirects.cache
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\obj\Debug\Project 1 (Probability and Statistics).csproj.CoreCompileInputs.cache
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\obj\Debug\Project 1 (Probability and Statistics).exe
+C:\Users\AHMED AYMAN\source\repos\Project 1 (Probability and Statistics)\Project 1 (Probability and Statistics)\obj\Debug\Project 1 (Probability and Statistics).pdb
